@@ -1,1 +1,1 @@
-setup/bootstrap.sh
+setup/bootstrap.sh="disabled"
